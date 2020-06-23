@@ -44,6 +44,9 @@
 #name{
   font-size: 1.2rem;
 }
+img.ar1{
+  width:100%;
+}
 .toolb{
   color: rgb(102, 102, 102);
   margin-left: 0.3rem;
@@ -628,5 +631,7 @@ img{
   header{
     margin-top:2rem;
   }
-
+.waku{
+  padding: 1rem;
+}
 }
