@@ -15,13 +15,7 @@
   width: 80%;
   margin: 0 auto;
 }
-.ar1{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  margin-top: 3rem;
 
-}
 .waku{
   padding: 4rem;
 }
