@@ -36,7 +36,36 @@
 #top{
   margin-top: 1rem;
 }
+#protex{
+  text-align: left;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+#name{
+  font-size: 1.2rem;
+}
+.toolb{
+  color: rgb(102, 102, 102);
+  margin-left: 0.3rem;
+  font-size: 0.9rem;
+}
+.fahtml{
+  color: rgb(244, 130, 94);
+}
 
+.facss{
+  color: rgb(75, 168, 214);
+}
+
+.fajs{
+  color:rgb(221, 85, 9);
+}
+.fagit{
+color: rgb(120, 14, 152);
+}
+.faado{
+  color: rgb(180, 13, 13);
+}
 body {
 margin: 0px auto;
 padding: 0px;
@@ -575,6 +604,10 @@ i{
 }
 img{
   width:100%;
+}
+#protex{
+  margin-left: 3rem;
+  margin-right: 3rem;
 }
 }
 
