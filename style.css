@@ -6,6 +6,13 @@
   text-decoration: none;
 }
 
+html{
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
 .nav{
   padding-left: 70%;
   padding-bottom: 2rem;
@@ -85,7 +92,7 @@ li{
 }
 #cross{
   margin-top:4rem;
-  margin-left: 100%;
+  margin-left: %;
     cursor: pointer;
 }
 .img_wrap{
@@ -553,7 +560,7 @@ p #mail{
 .fa-chevron-circle-up{
   position: fixed;
   top:90%;
-  left: 90%;
+  left: 88%;
 }
 
 .cate{
@@ -606,6 +613,9 @@ img{
 #protex{
   margin-left: 3rem;
   margin-right: 3rem;
+}
+.tai{
+  margin-top: 2rem;
 }
 }
 
