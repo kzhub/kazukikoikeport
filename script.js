@@ -89,6 +89,13 @@ function penl(){
   mask.style.display = 'block';
 }
 
+function penm(){
+  let modal= document.getElementById("modal14");
+  modal.style.display = 'block';
+  let mask= document.getElementById("mask");
+  mask.style.display = 'block';
+}
+
 function pen3(){
   let modal= document.getElementById("modal");
   modal.style.display = 'none';
@@ -116,6 +123,8 @@ function pen3(){
   modalj.style.display = 'none';
   let modalk= document.getElementById("modal13");
   modalk.style.display = 'none';
+  let modall= document.getElementById("modal14");
+  modall.style.display = 'none';
   let mask= document.getElementById("mask");
   mask.style.display = 'none';
 }

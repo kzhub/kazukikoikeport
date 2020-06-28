@@ -175,6 +175,7 @@ section#galla article {
   margin-right: 1rem;
   line-height: 150%;
   overflow: hidden;
+  text-align: left;
 }
 
 section#galla img {
@@ -189,7 +190,7 @@ section#galla img:hover {
 
 
 footer{
-  margin-bottom: 2rem;
+  padding: 4rem;
   font-size: 0.9rem;
 }
 
@@ -617,6 +618,7 @@ img{
 .tai{
   margin-top: 2rem;
 }
+
 }
 
 @media screen and (max-width: 700px) {
