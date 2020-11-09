@@ -113,8 +113,8 @@ li{
   transition-duration: 0.3s;
 }
 
-a:link { color: #696969; }
-a:visited { color: #696969; }
+a:link { color: #363636; }
+a:visited { color: #363636; }
 a:hover { color: #008080 ;}
 a:active {color: #008080 ;}
 
@@ -143,8 +143,7 @@ a:active {color: #008080 ;}
 img#logo{
   width:48%;
   min-width: 170px;
-  margin-bottom: 7rem;
-  margin-top: 4rem;
+  margin-bottom: 1rem;
   text-align: left;
 
 }
@@ -161,7 +160,7 @@ header{
 
 
 main{
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(250, 250, 250);
 }
 
 section#galla {
