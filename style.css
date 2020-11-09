@@ -96,6 +96,7 @@ li{
 }
 #cross{
   margin-top:4rem;
+  margin-bottom:2rem;
   margin-left: %;
     cursor: pointer;
 }
@@ -149,7 +150,7 @@ img#logo{
 }
 
 img{
-  width: 78%;
+  width: 100%;
   height: auto;
 }
 
@@ -696,9 +697,7 @@ img{
   margin-left: 3rem;
   margin-right: 3rem;
 }
-.tai{
-  margin-top: 2rem;
-}
+
 
 }
 
@@ -721,5 +720,8 @@ img{
   }
 .waku{
   padding: 1rem;
+}
+.tai{
+  margin-top: 1rem;
 }
 }
