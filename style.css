@@ -19,7 +19,7 @@ body {
   margin-right: 5%;
 }
 .wid{
-  width: 80%;
+  width: 95%;
   margin: 0 auto;
 }
 
@@ -266,6 +266,84 @@ div#mask {
   z-index: 1;
 }
 
+#modal101 {
+  display: none;
+  background: #fff;
+  color: #555;
+  width: 80%;
+  height: 80%;
+  padding: 3%;
+  border-radius: 3px;
+  position: fixed;/* 重要*/
+	top: 50%;/* 重要*/
+	left: 50%;/* 重要*/
+	transform: translate(-50%, -50%);/* 重要*/
+  margin: 0 ;
+  z-index: 2;
+  transition: 0.4s;
+  text-align: center;
+  overflow: scroll;/* scroll css */
+  height: 100vh; /* scroll css */
+}
+
+#modal102 {
+  display: none;
+  background: #fff;
+  color: #555;
+  width: 80%;
+  height: 80%;
+  padding: 3%;
+  border-radius: 3px;
+  position: fixed;/* 重要*/
+	top: 50%;/* 重要*/
+	left: 50%;/* 重要*/
+	transform: translate(-50%, -50%);/* 重要*/
+  margin: 0 ;
+  z-index: 2;
+  transition: 0.4s;
+  text-align: center;
+  overflow: scroll;/* scroll css */
+  height: 100vh; /* scroll css */
+}
+
+#modal103 {
+  display: none;
+  background: #fff;
+  color: #555;
+  width: 80%;
+  height: 80%;
+  padding: 3%;
+  border-radius: 3px;
+  position: fixed;/* 重要*/
+	top: 50%;/* 重要*/
+	left: 50%;/* 重要*/
+	transform: translate(-50%, -50%);/* 重要*/
+  margin: 0 ;
+  z-index: 2;
+  transition: 0.4s;
+  text-align: center;
+  overflow: scroll;/* scroll css */
+  height: 100vh; /* scroll css */
+}
+#modal104 {
+  display: none;
+  background: #fff;
+  color: #555;
+  width: 80%;
+  height: 80%;
+  padding: 3%;
+  border-radius: 3px;
+  position: fixed;/* 重要*/
+	top: 50%;/* 重要*/
+	left: 50%;/* 重要*/
+	transform: translate(-50%, -50%);/* 重要*/
+  margin: 0 ;
+  z-index: 2;
+  transition: 0.4s;
+  text-align: center;
+  overflow: scroll;/* scroll css */
+  height: 100vh; /* scroll css */
+}
 #modal {
   display: none;
   background: #fff;

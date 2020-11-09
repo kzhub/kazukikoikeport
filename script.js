@@ -1,3 +1,30 @@
+function pen1(){
+  let modal= document.getElementById("modal101");
+  modal.style.display = 'block';
+  let mask= document.getElementById("mask");
+  mask.style.display = 'block';
+}
+
+function pen2(){
+  let modal= document.getElementById("modal102");
+  modal.style.display = 'block';
+  let mask= document.getElementById("mask");
+  mask.style.display = 'block';
+}
+
+function penww(){
+  let modal= document.getElementById("modal103");
+  modal.style.display = 'block';
+  let mask= document.getElementById("mask");
+  mask.style.display = 'block';
+}
+
+function pen4(){
+  let modal= document.getElementById("modal104");
+  modal.style.display = 'block';
+  let mask= document.getElementById("mask");
+  mask.style.display = 'block';
+}
 function pen(){
   let modal= document.getElementById("modal");
   modal.style.display = 'block';
@@ -125,6 +152,16 @@ function pen3(){
   modalk.style.display = 'none';
   let modall= document.getElementById("modal14");
   modall.style.display = 'none';
+  let modalm= document.getElementById("modal101");
+  modalm.style.display = 'none';
+  let modaln= document.getElementById("modal102");
+  modaln.style.display = 'none';
+  let modalo= document.getElementById("modal103");
+  modalo.style.display = 'none';
+  let modalp= document.getElementById("modal104");
+  modalp.style.display = 'none';
+
+
   let mask= document.getElementById("mask");
   mask.style.display = 'none';
 }
