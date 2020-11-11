@@ -96,7 +96,7 @@ li{
 }
 #cross{
   margin-top:4rem;
-  margin-bottom:2rem;
+  margin-bottom:4rem;
   margin-left: %;
     cursor: pointer;
 }
@@ -724,4 +724,5 @@ img{
 .tai{
   margin-top: 1rem;
 }
+
 }
