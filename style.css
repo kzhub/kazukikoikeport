@@ -258,7 +258,7 @@ div.day{
 div#mask {
   cursor: pointer;
   display: none;
-  background: rgba(186, 186, 186, 0.45);
+  background: rgba(40, 39, 39, 0.45);
   position: fixed;
   top: 0;
   bottom: 0;
