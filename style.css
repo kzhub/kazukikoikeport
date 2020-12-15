@@ -88,7 +88,7 @@ p{
 
 
 li{
-  font-family: 'Lato', sans-serif;
+  font-family: proxima-nova, sans-serif;
   display: inline;
   font-size: 0.9rem;
 
@@ -142,7 +142,7 @@ a:active {color: #008080 ;}
 }
 
 img#logo{
-  width:48%;
+  width:40%;
   min-width: 170px;
   margin-bottom: 1rem;
   text-align: left;
@@ -185,6 +185,7 @@ section#galla article {
 section#galla img {
   width: 100%;
   transition: 0.5s;
+  box-shadow:0 5px 5px 0 rgba(0,0,0,0.1);
 }
 
 section#galla img:hover {
@@ -655,13 +656,13 @@ i{
 }
 
 .mida{
-    font-family: 'Lato', sans-serif;
+    font-family: proxima-nova, sans-serif;
     font-size: 0.9rem;
     color: #333333;
     margin: 0.3rem;
-  padding-top: 5rem;
-  text-align: left;
-  margin-left: 6rem;
+    padding-top: 5rem;
+    text-align: left;
+    margin-left: 6rem;
 
 }
 
@@ -708,7 +709,6 @@ img{
     margin-right: 0%;
   }
   li{
-
     margin-bottom: 0.6rem;
   }
   img#logo{
