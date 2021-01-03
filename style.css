@@ -667,7 +667,7 @@ i{
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1050px) {
   .nav{
     padding-left: 60%;
     padding-bottom: 2rem;
